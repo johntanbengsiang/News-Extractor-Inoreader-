@@ -20,7 +20,7 @@ FEED_TITLE = "AP Hospitality Advisors - Bulletin"
 FEED_DESCRIPTION = "AP Hospitality Bulletin Asia Pacific (monthly newsletter only)"
 # This should match wherever GitHub Pages ends up serving the repo from.
 # Update after you know your GitHub username/repo name.
-FEED_SELF_URL = "https://REPLACE_ME.github.io/ap-ha-rss-feed/feed.xml"
+FEED_SELF_URL = "https://johntanbengsiang/News-Extractor-Inoreader.github.io/ap-ha-rss-feed/feed.xml"
 FEED_SITE_URL = SOURCE_URL
 
 MONTHS = {
